@@ -11,11 +11,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSD111-TrinitySimon</title>
+    <title> CSD111-TrinitySimon </title>
 </head>
 <body>
   <div>name="class" value="width-wrap" 
-  <a> href="https://www.w3schools.com/html/html_links.asp"> ◤ Back to top</a>
+  <a> href="https://www.w3schools.com/html/html_links.asp"> ◤ Back to top </a>
     <h1> </h1> 
   <main>
   <header> name='id' value='top' 
@@ -31,9 +31,11 @@
      my home, and then I moved to a closer school which was a 45 minute drive, and I was back and forth for a few years. My whole school experience was
      Pretty hectic so when i got to highschool i decided to do homeschooling, which was better than the long drives early in the morining.
     </p1>
-    <h2> My Favorite Things </h2>
-   <a href= https://www.nhl.com/mapleleafs/> img src= "logo.png" alt= "Maple leafs logo">
-      <h3> Hockey Teams </h3>
+   <figure>
+   <h2> My Favorite Things </h2>
+   <a href= https://www.nhl.com/mapleleafs/> img src= "logo.png" alt= "Maple leafs logo" />
+ </figure> 
+    <h3> Hockey Teams </h3>
       <ol>
           <li> Maple Leafs </li>
           <li> Boston Bruins</li>
