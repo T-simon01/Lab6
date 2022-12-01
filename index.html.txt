@@ -16,10 +16,12 @@
 <body>
   <div>name="class" value="width-wrap" 
   <a> href="https://www.w3schools.com/html/html_links.asp"> ◤ Back to top </a>
-    <h1> </h1> 
+   
   <main>
   <header> name='id' value='top' 
     <h1> Welcome to Trinity's Website! </h1>
+    <img src="Trinity pixel 150" alt="image of myself"
+width="150" height="150"/>
    <p1> Hi my name is Trinity, im from manitoulin island.
      im currently enrolled at sault college and am studying Computer Programming.
      I like to be outdoors doing things like hiking, fishing, and quading. 
