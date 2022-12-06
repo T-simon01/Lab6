@@ -25,7 +25,7 @@ width="150" height="150"/>
 <img src="Trinity pixel 300.jpg" alt="image of myself but bigger"
 sizes="(max-width:500px) 150px,(max-width:500px) 300px, 1280px"
 srcset="Trinity pixel 300.jpg 150w, Trinity pixel 300w, 2x">
-<a href=
+<a href="Trinity.jpg"  alt= "Photo of myself" />
    <p1> Hi my name is Trinity, im from manitoulin island.
      im currently enrolled at sault college and am studying Computer Programming.
      I like to be outdoors doing things like hiking, fishing, and quading. 
